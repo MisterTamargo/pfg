@@ -12,16 +12,16 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map.Entry;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Pe;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.VmScheduler;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
-import org.cloudbus.cloudsim.lists.PeList;
-import org.cloudbus.cloudsim.lists.VmList;
-import org.cloudbus.cloudsim.provisioners.BwProvisioner;
-import org.cloudbus.cloudsim.provisioners.RamProvisioner;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Pe;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.VmScheduler;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.lists.PeList;
+import src.org.cloudbus.cloudsim.lists.VmList;
+import src.org.cloudbus.cloudsim.provisioners.BwProvisioner;
+import src.org.cloudbus.cloudsim.provisioners.RamProvisioner;
 
 /**
  * NetworkHost class extends Host to support simulation of networked datacenters. It executes

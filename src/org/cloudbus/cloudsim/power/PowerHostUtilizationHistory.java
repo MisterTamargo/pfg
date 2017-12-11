@@ -10,12 +10,12 @@ package org.cloudbus.cloudsim.power;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Pe;
-import org.cloudbus.cloudsim.VmScheduler;
-import org.cloudbus.cloudsim.power.models.PowerModel;
-import org.cloudbus.cloudsim.provisioners.BwProvisioner;
-import org.cloudbus.cloudsim.provisioners.RamProvisioner;
-import org.cloudbus.cloudsim.util.MathUtil;
+import src.org.cloudbus.cloudsim.Pe;
+import src.org.cloudbus.cloudsim.VmScheduler;
+import src.org.cloudbus.cloudsim.power.models.PowerModel;
+import src.org.cloudbus.cloudsim.provisioners.BwProvisioner;
+import src.org.cloudbus.cloudsim.provisioners.RamProvisioner;
+import src.org.cloudbus.cloudsim.util.MathUtil;
 
 /**
  * The class of a host that stores its CPU utilization history. The history is used by VM allocation

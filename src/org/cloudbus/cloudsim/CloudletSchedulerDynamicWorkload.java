@@ -12,8 +12,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.fog.entities.Tuple;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.fog.entities.Tuple;
 
 /**
  * CloudletSchedulerDynamicWorkload implements a policy of scheduling performed by a virtual machine

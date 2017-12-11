@@ -4,10 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.fog.application.AppModule;
-import org.fog.application.Application;
-import org.fog.entities.FogDevice;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.fog.application.Application;
+import src.org.fog.entities.FogDevice;
 
 public abstract class ModulePlacement {
 	

@@ -7,8 +7,8 @@
  */
 package org.cloudbus.cloudsim.sdn;
 
-import org.cloudbus.cloudsim.CloudletScheduler;
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.CloudletScheduler;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * Extension of VM that supports to set start and terminate time of VM in VM creation request.

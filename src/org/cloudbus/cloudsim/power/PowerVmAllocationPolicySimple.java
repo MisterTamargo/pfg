@@ -11,8 +11,8 @@ package org.cloudbus.cloudsim.power;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * This a simple class representing a simple VM allocation policy that does not perform any

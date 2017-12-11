@@ -18,9 +18,7 @@ import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 import javax.swing.UIManager;
 
-import org.fog.gui.core.FogDeviceGui;
-import org.fog.gui.core.Graph;
-import org.fog.gui.core.SpringUtilities;
+import src.org.fog.gui.core.FogDeviceGui;
 
 @SuppressWarnings({ "rawtypes" })
 public class AddFogDevice extends JDialog {

@@ -8,7 +8,7 @@
 
 package org.cloudbus.cloudsim;
 
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /**
  * CloudSim ResCloudlet represents a Cloudlet submitted to CloudResource for processing. This class

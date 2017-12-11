@@ -1,7 +1,7 @@
 package org.fog.scheduler;
 
-import org.cloudbus.cloudsim.CloudletSchedulerTimeShared;
-import org.cloudbus.cloudsim.ResCloudlet;
+import src.org.cloudbus.cloudsim.CloudletSchedulerTimeShared;
+import src.org.cloudbus.cloudsim.ResCloudlet;
 
 public class TupleScheduler extends CloudletSchedulerTimeShared{
 

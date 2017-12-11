@@ -11,7 +11,7 @@ package org.cloudbus.cloudsim.power;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * The class of an abstract VM selection policy.

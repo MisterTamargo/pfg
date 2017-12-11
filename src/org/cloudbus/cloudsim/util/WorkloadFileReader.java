@@ -9,7 +9,6 @@
 package org.cloudbus.cloudsim.util;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -20,9 +19,11 @@ import java.util.zip.GZIPInputStream;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.UtilizationModel;
-import org.cloudbus.cloudsim.UtilizationModelFull;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.File;
+import src.org.cloudbus.cloudsim.UtilizationModel;
+import src.org.cloudbus.cloudsim.UtilizationModelFull;
+import src.org.cloudbus.cloudsim.sdn.example.Workload;
 
 /**
  * This class is responsible for reading resource traces from a file and creating a list of jobs.

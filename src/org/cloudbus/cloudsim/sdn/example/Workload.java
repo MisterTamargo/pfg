@@ -7,7 +7,7 @@
  */
 package org.cloudbus.cloudsim.sdn.example;
 
-import org.cloudbus.cloudsim.sdn.Request;
+import src.org.cloudbus.cloudsim.sdn.Request;
 
 /**
  * Class to keep workload information parsed from files.

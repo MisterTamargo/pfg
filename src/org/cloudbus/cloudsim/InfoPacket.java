@@ -19,8 +19,8 @@ package org.cloudbus.cloudsim;
 import java.text.DecimalFormat;
 import java.util.Vector;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
 
 /**
  * InfoPacket class can be used to gather information from the network layer. An InfoPacket

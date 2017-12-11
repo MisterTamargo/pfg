@@ -8,10 +8,10 @@
 
 package org.cloudbus.cloudsim.power;
 
-import org.cloudbus.cloudsim.DatacenterBroker;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
-import org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.DatacenterBroker;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.core.SimEvent;
 
 /**
  * A broker for the power package.

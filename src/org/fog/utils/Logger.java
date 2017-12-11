@@ -2,7 +2,7 @@ package org.fog.utils;
 
 import java.text.DecimalFormat;
 
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 public class Logger {
 	

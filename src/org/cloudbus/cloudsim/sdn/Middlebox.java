@@ -8,10 +8,10 @@
 
 package org.cloudbus.cloudsim.sdn;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.UtilizationModelFull;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.UtilizationModelFull;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
 
 /**
  * Middlebox represent specific VM that acts as a middle box

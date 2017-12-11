@@ -4,14 +4,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.fog.application.AppEdge;
-import org.fog.application.AppModule;
-import org.fog.application.Application;
-import org.fog.entities.Actuator;
-import org.fog.entities.FogDevice;
-import org.fog.entities.Sensor;
-import org.fog.entities.Tuple;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.fog.application.AppEdge;
+import src.org.fog.application.Application;
+import src.org.fog.entities.Actuator;
+import src.org.fog.entities.FogDevice;
+import src.org.fog.entities.Sensor;
+import src.org.fog.entities.Tuple;
 
 public class ModulePlacementOnlyCloud extends ModulePlacement{
 	

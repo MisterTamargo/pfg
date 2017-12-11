@@ -14,10 +14,10 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map.Entry;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
-import org.cloudbus.cloudsim.core.SimEvent;
-import org.cloudbus.cloudsim.core.predicates.PredicateType;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.core.predicates.PredicateType;
 
 /**
  * This class allows to simulate Edge switch for Datacenter network. It interacts with other

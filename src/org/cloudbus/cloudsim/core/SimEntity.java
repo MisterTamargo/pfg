@@ -8,9 +8,9 @@
 
 package org.cloudbus.cloudsim.core;
 
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.NetworkTopology;
-import org.cloudbus.cloudsim.core.predicates.Predicate;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.NetworkTopology;
+import src.org.cloudbus.cloudsim.core.predicates.Predicate;
 
 /**
  * This class represents a simulation entity. An entity handles events and can send events to other

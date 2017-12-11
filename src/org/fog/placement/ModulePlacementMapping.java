@@ -4,9 +4,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.fog.application.AppModule;
-import org.fog.application.Application;
-import org.fog.entities.FogDevice;
+import src.org.fog.application.Application;
+import src.org.fog.entities.FogDevice;
 
 public class ModulePlacementMapping extends ModulePlacement{
 

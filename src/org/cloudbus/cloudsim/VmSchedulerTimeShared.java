@@ -14,8 +14,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.lists.PeList;
-import org.cloudbus.cloudsim.provisioners.PeProvisioner;
+import src.org.cloudbus.cloudsim.lists.PeList;
+import src.org.cloudbus.cloudsim.provisioners.PeProvisioner;
 
 /**
  * VmSchedulerTimeShared is a VMM allocation policy that allocates one or more Pe to a VM, and

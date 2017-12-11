@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import org.cloudbus.cloudsim.distributions.ContinuousDistribution;
+import src.org.cloudbus.cloudsim.distributions.ContinuousDistribution;
 
 /**
  * An implementation of a storage system. It simulates the behaviour of a typical harddrive storage.

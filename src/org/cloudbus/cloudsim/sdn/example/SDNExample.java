@@ -13,23 +13,18 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.DatacenterCharacteristics;
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Storage;
-import org.cloudbus.cloudsim.VmAllocationPolicy;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.sdn.NetworkOperatingSystem;
-import org.cloudbus.cloudsim.sdn.SDNDatacenter;
-import org.cloudbus.cloudsim.sdn.Switch;
-import org.cloudbus.cloudsim.sdn.example.policies.VmAllocationPolicyCombinedLeastFullFirst;
-import org.cloudbus.cloudsim.sdn.example.policies.VmAllocationPolicyCombinedMostFullFirst;
-import org.cloudbus.cloudsim.sdn.example.policies.VmAllocationPolicyMipsLeastFullFirst;
-import org.cloudbus.cloudsim.sdn.example.policies.VmAllocationPolicyMipsMostFullFirst;
-import org.cloudbus.cloudsim.sdn.overbooking.OverbookingNetworkOperatingSystem;
-import org.cloudbus.cloudsim.sdn.overbooking.VmAllocationPolicyOverbooking;
-import org.cloudbus.cloudsim.sdn.power.PowerUtilizationMaxHostInterface;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.DatacenterCharacteristics;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Storage;
+import src.org.cloudbus.cloudsim.VmAllocationPolicy;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.sdn.NetworkOperatingSystem;
+import src.org.cloudbus.cloudsim.sdn.SDNDatacenter;
+import src.org.cloudbus.cloudsim.sdn.overbooking.OverbookingNetworkOperatingSystem;
+import src.org.cloudbus.cloudsim.sdn.overbooking.VmAllocationPolicyOverbooking;
+import src.org.cloudbus.cloudsim.sdn.power.PowerUtilizationMaxHostInterface;
 
 /**
  * CloudSimSDN example main program. It loads physical topology file, application

@@ -4,24 +4,22 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
-import javax.swing.JFrame;
 import javax.swing.JTextArea;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.DatacenterCharacteristics;
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Storage;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.sdn.Activity;
-import org.cloudbus.cloudsim.sdn.Processing;
-import org.cloudbus.cloudsim.sdn.Request;
-import org.cloudbus.cloudsim.sdn.SDNDatacenter;
-import org.cloudbus.cloudsim.sdn.Transmission;
-import org.cloudbus.cloudsim.sdn.example.SDNBroker;
-import org.cloudbus.cloudsim.sdn.example.SimpleNetworkOperatingSystem;
-import org.cloudbus.cloudsim.sdn.example.VmAllocationPolicyCombinedLeastFullFirst;
-import org.cloudbus.cloudsim.sdn.example.Workload;
-import org.cloudbus.cloudsim.sdn.example.VmSchedulerSpaceSharedEnergy;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.DatacenterCharacteristics;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Storage;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.sdn.Activity;
+import src.org.cloudbus.cloudsim.sdn.Processing;
+import src.org.cloudbus.cloudsim.sdn.Request;
+import src.org.cloudbus.cloudsim.sdn.SDNDatacenter;
+import src.org.cloudbus.cloudsim.sdn.Transmission;
+import src.org.cloudbus.cloudsim.sdn.example.SDNBroker;
+import src.org.cloudbus.cloudsim.sdn.example.SimpleNetworkOperatingSystem;
+import src.org.cloudbus.cloudsim.sdn.example.VmSchedulerSpaceSharedEnergy;
+import src.org.cloudbus.cloudsim.sdn.example.Workload;
 
 /** A simple example showing how to create a datacenter with one host and run one cloudlet on it */
 public class GraphicSDNExample {

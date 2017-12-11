@@ -11,10 +11,10 @@ package org.cloudbus.cloudsim.power;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.CloudletScheduler;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.util.MathUtil;
+import src.org.cloudbus.cloudsim.CloudletScheduler;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.util.MathUtil;
 
 /**
  * The class of a VM that stores its CPU utilization history. The history is used by VM allocation

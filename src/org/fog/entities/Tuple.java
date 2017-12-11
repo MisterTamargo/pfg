@@ -3,8 +3,8 @@ package org.fog.entities;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.UtilizationModel;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.UtilizationModel;
 
 public class Tuple extends Cloudlet{
 

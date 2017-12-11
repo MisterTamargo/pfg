@@ -14,11 +14,11 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.CloudletScheduler;
-import org.cloudbus.cloudsim.ResCloudlet;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.CloudletScheduler;
+import src.org.cloudbus.cloudsim.ResCloudlet;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
 
 /**
  * CloudletSchedulerSpaceShared implements a policy of scheduling performed by a virtual machine. It

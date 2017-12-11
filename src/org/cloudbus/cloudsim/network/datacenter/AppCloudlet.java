@@ -11,9 +11,9 @@ package org.cloudbus.cloudsim.network.datacenter;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.UtilizationModel;
-import org.cloudbus.cloudsim.UtilizationModelFull;
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.UtilizationModel;
+import src.org.cloudbus.cloudsim.UtilizationModelFull;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /**
  * AppCloudlet class represents an application which user submit for execution within datacenter. It

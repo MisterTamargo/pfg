@@ -11,8 +11,8 @@ package org.cloudbus.cloudsim.sdn;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /** 
  * This class represents a channel for transmission of data between switches.

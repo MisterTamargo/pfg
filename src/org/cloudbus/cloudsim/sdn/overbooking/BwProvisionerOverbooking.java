@@ -11,8 +11,8 @@ package org.cloudbus.cloudsim.sdn.overbooking;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.provisioners.BwProvisioner;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.provisioners.BwProvisioner;
 
 /**
  * BwProvisionerSimple is a class that implements a simple best effort allocation policy: if there

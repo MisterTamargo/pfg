@@ -8,7 +8,7 @@
 
 package org.cloudbus.cloudsim.provisioners;
 
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * RamProvisioner is an abstract class that represents the provisioning policy of memory to virtual

@@ -9,18 +9,16 @@ package org.cloudbus.cloudsim.sdn.example;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
-import org.cloudbus.cloudsim.core.SimEvent;
-import org.cloudbus.cloudsim.sdn.Arc;
-import org.cloudbus.cloudsim.sdn.Link;
-import org.cloudbus.cloudsim.sdn.Middlebox;
-import org.cloudbus.cloudsim.sdn.NetworkOperatingSystem;
-import org.cloudbus.cloudsim.sdn.Node;
-import org.cloudbus.cloudsim.sdn.SDNHost;
-import org.cloudbus.cloudsim.sdn.TimedVm;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.sdn.Arc;
+import src.org.cloudbus.cloudsim.sdn.Middlebox;
+import src.org.cloudbus.cloudsim.sdn.NetworkOperatingSystem;
+import src.org.cloudbus.cloudsim.sdn.SDNHost;
+import src.org.cloudbus.cloudsim.sdn.TimedVm;
 
 /**
  * Simple network operating system class for the example. 

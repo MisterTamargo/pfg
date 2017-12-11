@@ -8,7 +8,7 @@
 
 package org.cloudbus.cloudsim.core.predicates;
 
-import org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.core.SimEvent;
 
 /**
  * Predicates are used to select events from the deferred queue. This class is abstract and must be

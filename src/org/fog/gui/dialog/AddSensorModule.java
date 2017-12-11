@@ -18,10 +18,7 @@ import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 import javax.swing.UIManager;
 
-import org.fog.gui.core.Graph;
-import org.fog.gui.core.Node;
-import org.fog.gui.core.SensorModule;
-import org.fog.gui.core.SpringUtilities;
+import src.org.fog.gui.core.SensorModule;
 
 @SuppressWarnings({ "rawtypes" })
 public class AddSensorModule extends JDialog {

@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /**
  * VmAllocationPolicySimple is an VmAllocationPolicy that chooses, as the host for a VM, the host

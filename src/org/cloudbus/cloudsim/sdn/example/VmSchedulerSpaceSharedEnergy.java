@@ -14,10 +14,10 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Pe;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.VmScheduler;
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.Pe;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.VmScheduler;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /**
  * VmSchedulerSpaceShared is a VMM allocation policy that allocates one or more Pe to a VM, and

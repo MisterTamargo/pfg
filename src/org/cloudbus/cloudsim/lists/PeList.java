@@ -10,9 +10,9 @@ package org.cloudbus.cloudsim.lists;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Pe;
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Pe;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * PeList is a collection of operations on lists of PEs.

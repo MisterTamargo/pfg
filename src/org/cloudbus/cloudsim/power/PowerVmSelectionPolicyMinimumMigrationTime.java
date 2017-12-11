@@ -10,7 +10,7 @@ package org.cloudbus.cloudsim.power;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * The Minimum Migration Time (MMT) VM selection policy.

@@ -21,12 +21,6 @@ import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 import javax.swing.UIManager;
 
-import org.cloudbus.cloudsim.sdn.graph.core.Graph;
-import org.cloudbus.cloudsim.sdn.graph.core.Node;
-import org.cloudbus.cloudsim.sdn.graph.core.SpringUtilities;
-import org.cloudbus.cloudsim.sdn.graph.core.SwitchNode;
-import org.cloudbus.cloudsim.sdn.graph.core.HostNode;
-
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class AddPhysicalNode extends JDialog {
 	private static final long serialVersionUID = -5116677861770319577L;

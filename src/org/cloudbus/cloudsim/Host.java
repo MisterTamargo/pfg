@@ -10,10 +10,10 @@ package org.cloudbus.cloudsim;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.lists.PeList;
-import org.cloudbus.cloudsim.provisioners.BwProvisioner;
-import org.cloudbus.cloudsim.provisioners.RamProvisioner;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.lists.PeList;
+import src.org.cloudbus.cloudsim.provisioners.BwProvisioner;
+import src.org.cloudbus.cloudsim.provisioners.RamProvisioner;
 
 /**
  * Host executes actions related to management of virtual machines (e.g., creation and destruction).

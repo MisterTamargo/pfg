@@ -2,19 +2,19 @@ package org.fog.entities;
 
 import java.util.ArrayList;
 
-import org.cloudbus.cloudsim.UtilizationModelFull;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.SimEntity;
-import org.cloudbus.cloudsim.core.SimEvent;
-import org.fog.application.AppEdge;
-import org.fog.application.AppLoop;
-import org.fog.application.Application;
-import org.fog.utils.FogEvents;
-import org.fog.utils.FogUtils;
-import org.fog.utils.GeoLocation;
-import org.fog.utils.Logger;
-import org.fog.utils.TimeKeeper;
-import org.fog.utils.distribution.Distribution;
+import src.org.cloudbus.cloudsim.UtilizationModelFull;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.SimEntity;
+import src.org.cloudbus.cloudsim.core.SimEvent;
+import src.org.fog.application.AppEdge;
+import src.org.fog.application.AppLoop;
+import src.org.fog.application.Application;
+import src.org.fog.utils.FogEvents;
+import src.org.fog.utils.FogUtils;
+import src.org.fog.utils.GeoLocation;
+import src.org.fog.utils.Logger;
+import src.org.fog.utils.TimeKeeper;
+import src.org.fog.utils.distribution.Distribution;
 
 public class Sensor extends SimEntity{
 	

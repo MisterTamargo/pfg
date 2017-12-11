@@ -12,8 +12,9 @@ import java.util.LinkedList;
 import java.util.List;
 
 import org.apache.commons.math3.linear.Array2DRowRealMatrix;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.util.MathUtil;
+
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.util.MathUtil;
 
 /**
  * The Maximum Correlation (MC) VM selection policy.

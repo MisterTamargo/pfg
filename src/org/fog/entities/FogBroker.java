@@ -1,7 +1,7 @@
 package org.fog.entities;
 
-import org.cloudbus.cloudsim.core.SimEvent;
-import org.cloudbus.cloudsim.power.PowerDatacenterBroker;
+import src.org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.power.PowerDatacenterBroker;
 
 public class FogBroker extends PowerDatacenterBroker{
 

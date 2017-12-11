@@ -28,12 +28,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 
-import org.fog.gui.core.Edge;
-import org.fog.gui.core.Graph;
-import org.fog.gui.core.Node;
-import org.fog.gui.core.NodeCellRenderer;
-import org.fog.gui.core.SpringUtilities;
-
 /** A dialog to add a new edge */
 public class AddAppEdge extends JDialog {
 	private static final long serialVersionUID = 4794808969864918000L;

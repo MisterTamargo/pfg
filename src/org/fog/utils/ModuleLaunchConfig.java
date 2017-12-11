@@ -1,7 +1,5 @@
 package org.fog.utils;
 
-import org.fog.application.AppModule;
-
 public class ModuleLaunchConfig {
 
 	private AppModule module;

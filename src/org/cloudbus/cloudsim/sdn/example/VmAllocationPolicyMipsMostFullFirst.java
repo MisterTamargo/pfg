@@ -2,8 +2,8 @@ package org.cloudbus.cloudsim.sdn.example;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Vm;
 
 public class VmAllocationPolicyMipsMostFullFirst extends VmAllocationPolicyCombinedMostFullFirst{
 

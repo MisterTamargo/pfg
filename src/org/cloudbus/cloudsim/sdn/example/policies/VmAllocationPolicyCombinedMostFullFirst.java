@@ -12,12 +12,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.VmAllocationPolicy;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.sdn.power.PowerUtilizationMaxHostInterface;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.VmAllocationPolicy;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.sdn.power.PowerUtilizationMaxHostInterface;
 
 /**
  * VM Allocation Policy - BW and Compute combined, MFF.

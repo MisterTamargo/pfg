@@ -2,10 +2,10 @@ package org.fog.gui.core;
 
 import java.io.Serializable;
 
-import org.fog.utils.distribution.DeterministicDistribution;
-import org.fog.utils.distribution.Distribution;
-import org.fog.utils.distribution.NormalDistribution;
-import org.fog.utils.distribution.UniformDistribution;
+import src.org.fog.utils.distribution.DeterministicDistribution;
+import src.org.fog.utils.distribution.Distribution;
+import src.org.fog.utils.distribution.NormalDistribution;
+import src.org.fog.utils.distribution.UniformDistribution;
 
 public class SensorGui extends Node implements Serializable{
 

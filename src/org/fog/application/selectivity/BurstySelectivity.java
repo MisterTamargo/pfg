@@ -1,6 +1,6 @@
 package org.fog.application.selectivity;
 
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /**
  * Generates an output tuple for every input tuple according to a bursty model.

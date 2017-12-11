@@ -10,7 +10,8 @@ package org.cloudbus.cloudsim.util;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.sdn.example.Workload;
 
 /**
  * This interface defines what a workload model should provide. A workload model generates a list of

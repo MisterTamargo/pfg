@@ -7,7 +7,6 @@ import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
-import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
@@ -30,16 +29,11 @@ import javax.swing.UIManager;
 import javax.swing.filechooser.FileFilter;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import org.fog.gui.core.Bridge;
-import org.fog.gui.core.Graph;
-import org.fog.gui.core.GraphView;
-import org.fog.gui.dialog.AddActuator;
-import org.fog.gui.dialog.AddFogDevice;
-import org.fog.gui.dialog.AddLink;
-import org.fog.gui.dialog.AddPhysicalEdge;
-import org.fog.gui.dialog.AddPhysicalNode;
-import org.fog.gui.dialog.AddSensor;
-import org.fog.gui.dialog.SDNRun;
+import src.org.cloudbus.cloudsim.File;
+import src.org.fog.gui.dialog.AddActuator;
+import src.org.fog.gui.dialog.AddFogDevice;
+import src.org.fog.gui.dialog.AddLink;
+import src.org.fog.gui.dialog.AddSensor;
 
 
 public class FogGui extends JFrame {

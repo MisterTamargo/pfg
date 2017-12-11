@@ -7,7 +7,7 @@
  */
 package org.cloudbus.cloudsim.sdn;
 
-import org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.Cloudlet;
 
 /**
  * Processing activity to compute in VM. Basically a wrapper of Cloudlet. 

@@ -21,12 +21,6 @@ import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 import javax.swing.UIManager;
 
-import org.fog.gui.core.Graph;
-import org.fog.gui.core.Node;
-import org.fog.gui.core.SpringUtilities;
-import org.fog.gui.core.SwitchNode;
-import org.fog.gui.core.HostNode;
-
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class AddPhysicalNode extends JDialog {
 	private static final long serialVersionUID = -5116677861770319577L;

@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Log;
 
 /**
  * A Cloud Information Service (CIS) is an entity that provides cloud resource registration,

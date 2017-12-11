@@ -2,8 +2,6 @@ package org.cloudbus.cloudsim.sdn.graph.core;
 
 import java.io.Serializable;
 
-import org.cloudbus.cloudsim.sdn.graph.core.Coordinates;
-
 /**
  * The model that represents node (host or vm) for the graph.
  * 

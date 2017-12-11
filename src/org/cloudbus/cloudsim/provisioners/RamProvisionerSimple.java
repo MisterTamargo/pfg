@@ -11,7 +11,7 @@ package org.cloudbus.cloudsim.provisioners;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * RamProvisionerSimple is an extension of RamProvisioner which uses a best-effort policy to

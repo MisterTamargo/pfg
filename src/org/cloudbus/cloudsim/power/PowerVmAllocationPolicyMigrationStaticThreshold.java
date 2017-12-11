@@ -10,8 +10,8 @@ package org.cloudbus.cloudsim.power;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * The Static Threshold (THR) VM allocation policy.

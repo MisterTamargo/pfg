@@ -1,6 +1,6 @@
 package org.fog.utils;
 
-import org.cloudbus.cloudsim.power.models.PowerModel;
+import src.org.cloudbus.cloudsim.power.models.PowerModel;
 
 /**
  * The Class PowerModelLinear.

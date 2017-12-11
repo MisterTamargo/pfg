@@ -8,11 +8,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
 import org.apache.commons.math3.distribution.ExponentialDistribution;
 import org.apache.commons.math3.distribution.ParetoDistribution;
 import org.apache.commons.math3.random.Well19937c;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 
 /* Generate VM requests, for example:
  *  

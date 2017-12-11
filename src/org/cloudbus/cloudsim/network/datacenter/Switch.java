@@ -16,14 +16,14 @@ import java.util.Map.Entry;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
-import org.cloudbus.cloudsim.core.SimEntity;
-import org.cloudbus.cloudsim.core.SimEvent;
-import org.cloudbus.cloudsim.core.predicates.PredicateType;
-import org.cloudbus.cloudsim.lists.VmList;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.core.SimEntity;
+import src.org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.core.predicates.PredicateType;
+import src.org.cloudbus.cloudsim.lists.VmList;
 
 public class Switch extends SimEntity {
 

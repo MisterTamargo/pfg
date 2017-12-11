@@ -11,14 +11,14 @@ package org.cloudbus.cloudsim.power;
 import java.util.List;
 import java.util.Map;
 
-import org.cloudbus.cloudsim.DatacenterCharacteristics;
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Storage;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.VmAllocationPolicy;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.CloudSimTags;
-import org.cloudbus.cloudsim.core.predicates.PredicateType;
+import src.org.cloudbus.cloudsim.DatacenterCharacteristics;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Storage;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.VmAllocationPolicy;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.CloudSimTags;
+import src.org.cloudbus.cloudsim.core.predicates.PredicateType;
 
 /**
  * PowerDatacenterNonPowerAware is a class that represents a non-power aware data center in the

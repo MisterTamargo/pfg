@@ -12,13 +12,14 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import org.fog.utils.distribution.DeterministicDistribution;
-import org.fog.utils.distribution.Distribution;
-import org.fog.utils.distribution.NormalDistribution;
-import org.fog.utils.distribution.UniformDistribution;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
+
+import src.org.fog.utils.distribution.DeterministicDistribution;
+import src.org.fog.utils.distribution.Distribution;
+import src.org.fog.utils.distribution.NormalDistribution;
+import src.org.fog.utils.distribution.UniformDistribution;
 
 public class Bridge {
 	

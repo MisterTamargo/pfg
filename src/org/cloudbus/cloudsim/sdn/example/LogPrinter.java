@@ -10,17 +10,15 @@ package org.cloudbus.cloudsim.sdn.example;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.sdn.Activity;
-import org.cloudbus.cloudsim.sdn.Processing;
-import org.cloudbus.cloudsim.sdn.Request;
-import org.cloudbus.cloudsim.sdn.Switch;
-import org.cloudbus.cloudsim.sdn.Transmission;
-import org.cloudbus.cloudsim.sdn.Switch.HistoryEntry;
-import org.cloudbus.cloudsim.sdn.power.PowerUtilizationHistoryEntry;
-import org.cloudbus.cloudsim.sdn.power.PowerUtilizationInterface;
+import src.org.cloudbus.cloudsim.Cloudlet;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.sdn.Activity;
+import src.org.cloudbus.cloudsim.sdn.Processing;
+import src.org.cloudbus.cloudsim.sdn.Request;
+import src.org.cloudbus.cloudsim.sdn.Transmission;
+import src.org.cloudbus.cloudsim.sdn.power.PowerUtilizationHistoryEntry;
+import src.org.cloudbus.cloudsim.sdn.power.PowerUtilizationInterface;
 
 /**
  * This class is to print out logs into console.

@@ -21,11 +21,6 @@ import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 import javax.swing.UIManager;
 
-import org.fog.gui.core.Graph;
-import org.fog.gui.core.SpringUtilities;
-import org.fog.gui.core.VmNode;
-import org.fog.gui.core.Node;
-
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class AddVirtualNode extends JDialog {
 	private static final long serialVersionUID = -5116677861770319577L;

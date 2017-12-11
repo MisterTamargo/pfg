@@ -10,9 +10,9 @@ package org.cloudbus.cloudsim;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.lists.HostList;
-import org.cloudbus.cloudsim.lists.PeList;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.lists.HostList;
+import src.org.cloudbus.cloudsim.lists.PeList;
 
 /**
  * DatacenterCharacteristics represents static properties of a resource such as resource

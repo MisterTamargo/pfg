@@ -8,7 +8,7 @@
 
 package org.cloudbus.cloudsim;
 
-import org.cloudbus.cloudsim.provisioners.PeProvisioner;
+import src.org.cloudbus.cloudsim.provisioners.PeProvisioner;
 
 /**
  * CloudSim Pe (Processing Element) class represents CPU unit, defined in terms of Millions

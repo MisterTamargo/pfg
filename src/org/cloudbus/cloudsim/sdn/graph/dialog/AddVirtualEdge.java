@@ -27,11 +27,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import org.cloudbus.cloudsim.sdn.graph.core.Edge;
-import org.cloudbus.cloudsim.sdn.graph.core.Graph;
-import org.cloudbus.cloudsim.sdn.graph.core.Node;
-import org.cloudbus.cloudsim.sdn.graph.core.NodeCellRenderer;
-
 /** A dialog to add a new edge */
 public class AddVirtualEdge extends JDialog {
 	private static final long serialVersionUID = 4794808969864918000L;

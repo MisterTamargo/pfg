@@ -10,9 +10,9 @@ package org.cloudbus.cloudsim.network.datacenter;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.UtilizationModel;
-import org.cloudbus.cloudsim.UtilizationModelFull;
-import org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.UtilizationModel;
+import src.org.cloudbus.cloudsim.UtilizationModelFull;
+import src.org.cloudbus.cloudsim.core.CloudSim;
 
 /**
  * WorkflowApp is an example of AppCloudlet having three communicating tasks. Task A and B sends the

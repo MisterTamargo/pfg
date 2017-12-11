@@ -11,7 +11,7 @@ package org.cloudbus.cloudsim.power;
 import java.util.List;
 import java.util.Random;
 
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * The Random Selection (RS) VM selection policy.

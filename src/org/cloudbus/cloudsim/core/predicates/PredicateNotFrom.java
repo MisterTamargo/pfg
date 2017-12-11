@@ -8,7 +8,7 @@
 
 package org.cloudbus.cloudsim.core.predicates;
 
-import org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.core.SimEvent;
 
 /**
  * A predicate which selects events that have not been sent by specific entities.

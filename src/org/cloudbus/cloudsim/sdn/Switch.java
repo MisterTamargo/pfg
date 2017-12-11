@@ -11,9 +11,9 @@ import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.List;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.core.SimEntity;
-import org.cloudbus.cloudsim.core.SimEvent;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.core.SimEntity;
+import src.org.cloudbus.cloudsim.core.SimEvent;
 
 
 /**

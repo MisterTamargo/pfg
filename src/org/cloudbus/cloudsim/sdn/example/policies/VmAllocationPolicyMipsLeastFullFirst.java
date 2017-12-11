@@ -10,8 +10,8 @@ package org.cloudbus.cloudsim.sdn.example.policies;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.Vm;
 
 /**
  * VM Allocation Policy - Only compute power, LFF.

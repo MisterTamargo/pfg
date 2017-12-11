@@ -15,7 +15,7 @@ import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 
-import org.fog.utils.FogUtils;
+import src.org.fog.utils.FogUtils;
 
 
 /** Panel that displays a graph */

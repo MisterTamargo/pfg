@@ -16,13 +16,13 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.HostDynamicWorkload;
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.power.lists.PowerVmList;
-import org.cloudbus.cloudsim.util.ExecutionTimeMeasurer;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.HostDynamicWorkload;
+import src.org.cloudbus.cloudsim.Log;
+import src.org.cloudbus.cloudsim.Vm;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.power.lists.PowerVmList;
+import src.org.cloudbus.cloudsim.util.ExecutionTimeMeasurer;
 
 /**
  * The class of an abstract power-aware VM allocation policy that dynamically optimizes the VM

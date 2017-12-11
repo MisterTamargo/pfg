@@ -12,10 +12,10 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.lists.PeList;
-import org.cloudbus.cloudsim.provisioners.BwProvisioner;
-import org.cloudbus.cloudsim.provisioners.RamProvisioner;
+import src.org.cloudbus.cloudsim.core.CloudSim;
+import src.org.cloudbus.cloudsim.lists.PeList;
+import src.org.cloudbus.cloudsim.provisioners.BwProvisioner;
+import src.org.cloudbus.cloudsim.provisioners.RamProvisioner;
 
 /**
  * The class of a host supporting dynamic workloads and performance degradation.

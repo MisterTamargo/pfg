@@ -10,8 +10,8 @@ package org.cloudbus.cloudsim.power;
 
 import java.util.List;
 
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.util.MathUtil;
+import src.org.cloudbus.cloudsim.Host;
+import src.org.cloudbus.cloudsim.util.MathUtil;
 
 /**
  * The Local Regression Robust (LRR) VM allocation policy.
